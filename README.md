@@ -2,7 +2,7 @@
 
 Elaborada por Sergio Orrego
 
-## Configración y ejecución local
+## Configuración y ejecución local
 
 1. **Ubicado en la ruta raíz del proyecto, instalar las dependencias:**
 
@@ -10,7 +10,7 @@ Elaborada por Sergio Orrego
    npm install
    ```
 
-1. **Levantar el servidor frontend:**
+1. **Levantar el servidor de desarrollo (frontend):**
    ```sh
    npm run dev
    ```

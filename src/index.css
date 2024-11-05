@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Inter V";
+  src: url("/Inter-V.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Canela Thin";
+  src: url("/Canela-Thin.otf") format(otf);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  --inter-family: "Inter V", sans-serif;
+  --canela-family: "Canela Thin", sans-serif;
+}
